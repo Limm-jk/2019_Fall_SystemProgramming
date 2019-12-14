@@ -1,4 +1,5 @@
-# SystemProgramming
+# SystemProgramming    
+2019.09.02 - 2019.12.19 4sem.
 
   ### 1. Data Lab   
     > Exercise about Bit Operator
